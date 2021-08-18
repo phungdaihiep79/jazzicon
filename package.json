@@ -1,6 +1,6 @@
 {
-  "name": "@metamask/jazzicon",
-  "version": "2.1.0",
+  "name": "@phungdaihiep/jazzicon",
+  "version": "2.1.1",
   "description": "Jazzy deterministic identicons for a more entertaining future",
   "main": "index.js",
   "scripts": {
@@ -21,14 +21,14 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MetaMask/jazzicon.git"
+    "url": "git@github.com:phungdaihiep79/jazzicon.git"
   },
   "keywords": [
     "identicon",
     "jazz"
   ],
   "bugs": {
-    "url": "https://github.com/MetaMask/jazzicon/issues"
+    "url": "https://github.com/phungdaihiep79/jazzicon/issues"
   },
-  "homepage": "https://github.com/MetaMask/jazzicon#readme"
+  "homepage": "https://github.com/phungdaihiep79/jazzicon#readme"
 }
